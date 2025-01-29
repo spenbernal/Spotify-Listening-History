@@ -1,207 +1,205 @@
 ,subgenre,artist_id,artist,popularity,followers,genre
-0,electroclash,6TsAG8Ve1icEC8ydeHm3C8,Snow Strippers,68,188890,Electronic
-1,cloud rap,3hGJ4nHdF99Vs0gQdXz5Nw,smokedope2016,55,68128,Rap
-2,darkwave,62s5q1tm3UAcRnbGY9CCI9,Provoker,49,62967,Alternative Rock
-3,lo-fi house,6G01WYFYF91rjG5LtwMhY4,1tbsp,47,31722,House
-4,midwest emo,2CnhqfjUG0qzsru0SMuhrk,Title Fight,65,508715,Alternative Rock
-5,eurotrance,0HHa7ZJZxUQlg5l2mB0N0f,Marlon Hoffstadt,64,135316,Dance
-6,cloud rap,3uo0ix4Y67XHVWBhXXIY1S,Xavier Wulf,71,1056147,Rap
-7,hyperpop,72NhFAGG5Pt91VbheJeEPG,2hollis,62,176101,Electronic
-8,eurotrance,1vK8NnrPlBlF34LaiFX1SK,Funk Tribu,56,86282,Dance
-9,techno,5Ho1vKl1Uz8bJlk4vbmvmf,Amelie Lens,55,652096,Techno
-10,jazz rap,3Rq3YOF9YG9YfCWD4D56RZ,Nujabes,66,1287503,Jazz
-11,jazz rap,6AE5XsUcbWE2XrQccVVJyd,Uyama Hiroto,48,105673,Jazz
-12,stutter house,4oLeXFyACqeem2VImYeBFe,Fred again..,78,1836049,House
-13,indie,0U7iI0Dk4Ojvi17nZboNO4,Vacations,73,1264239,Indie
-14,eurotrance,5tcwaJBUyEdxQxvieuQxU7,DJ HEARTSTRING,55,76949,Dance
-15,eurotrance,5w2AnakbHiabcr3RZPLqr5,Butschi,35,7858,Dance
-16,reggae,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,80,12936295,Reggae
-17,indie,3XxNRirzbjfLdDli06zMaB,Eyedress,75,2391738,Indie
-18,lo-fi house,0nx9ai3o3Ba6bE3WHkEoQg,DJ Planet Express,40,12924,House
-19,melodic rap,757aE44tKEUQEqRuT6GnEB,Roddy Ricch,78,11141559,Rap
-20,dubstep,5he5w2lnU9x7JFhnwcekXX,Skrillex,75,7664259,Electronic
-21,indie,3OykSjAE6F2Mb51WplFoRk,WILLIS,56,155218,Indie
-22,hard house,2A4uiWrfuBpVFugyvxAt4c,Pegassi,45,20823,Dance
-23,pop punk,6FBDaR13swtiWwGhX1WQsP,blink-182,78,8761646,Punk
-24,breakcore,39kuwM2oBNmrM3kEYVmk2X,TOKYOPILL,49,114752,Electronic
-25,reggae rock,0EdvGhlC1FkGItLOWQzG4J,Sublime,72,3063009,Reggae
-26,bedroom pop,3zmfs9cQwzJl575W1ZYXeT,Men I Trust,71,2068231,Indie
-27,lo-fi house,6KkltYAOOGsCaW7dO9jF98,Pretty Girl,42,27488,House
-28,rap,6aaMZ3fcfLv4tEbmY7bjRM,Isaiah Rashad,69,1524293,Rap
-29,cloud rap,5vSQUyT33qxr1xAX2Tkf3A,Clams Casino,71,337889,Electronic
-30,cloud rap,6TxY5T8v9RjF7Ry4XQvWT5,Chris Travis,66,516439,Rap
-31,rage rap,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,88,12871047,Rap
-32,soul,4596e2d3KmYzAeVenjCxfj,Free Nationals,61,332853,Soul
-33,hard house,50udUOTR7dQUgyPwPuCLM6,Malugi,51,24334,Dance
-34,cloud rap,2xvtxDNInKDV4AvGmjw6d1,Bladee,68,553384,Electronic
-35,electronic,6qgnBH6iDM91ipVXv28OMu,KAYTRANADA,72,1632107,Electronic
-36,nu metal,6Ghvu1VvMGScGpOUJBAHNH,Deftones,81,6440154,Alternative Rock
-37,hip hop,2P5sC9cVZDToPxyomzF1UH,Joey Bada$$,73,3663160,Rap
-38,lo-fi house,7yF6JnFPDzgml2Ytkyl5D7,Mall Grab,55,250513,House
-39,indie,1jsT4oqnLcCax2grWbuhL6,The Simps,51,89681,Indie
-40,eurotrance,540RtWfpQokIlaRgMDjU9v,TDJ,39,17004,Dance
-41,shoegaze,6ROfszneZDogjnbgqkxA7E,Midrift,60,102904,Alternative Rock
-42,shoegaze,3TJZG17pjOKXwx1ELKJPfm,Wisp,64,446144,Alternative Rock
-43,rap,13ubrt8QOOCPljQ2FL1Kca,A$AP Rocky,85,15739807,Rap
-44,punk rap,6fxyWrfmjcbj5d12gXeiNV,Denzel Curry,74,2719702,Punk
-45,melodic house,27gtK7m9vYwCyJ04zz0kIb,Lane 8,60,429740,House
-46,french house,4tZwfgrHOc3mvqYlEYSvVi,Daft Punk,82,10406305,Electronic
-47,rap,1anyVhU62p31KFi8MEzkbf,Chance the Rapper,74,6026692,Rap
-48,riddim,3NJ94iuAmmMjbszODYT6pO,Subtronics,63,357994,Electronic
-49,eurotrance,5ye3YheRaIaodo3nid7Wxz,Upper90,41,7746,Dance
-50,psytrance,2iKMTi2SXZWsGbl8LI8OSV,Jay Selway,1,118,Dance
-51,breakcore,30F64wQIHvLiFTGaNZ73nU,Sewerslvt,57,372131,Electronic
-52,cloud rap,5tQMB0cuNXdCtzovGt55uD,LUCKI,79,1427571,Rap
-53,cloud rap,56zdYcwtmdYq3WlBYQeHoA,DJmegan23,47,25782,Electronic
-54,eurotrance,2b1Yc522In2BV3Q1fj2JzY,DATSKO,48,8618,House
-55,shoegaze,3ysp8GwsheDcBxP9q65lBg,Lush,47,265047,Alternative Rock
-56,cloud rap,4bbjivSh1oG4NOc7uYHfw5,Lil B,57,332992,Rap
-57,memphis rap,08Ld63UgKrJ0nZnCkzHtzc,Project Pat,67,892029,Hip Hop
-58,shoegaze,4g6ODwOQYRZLsP89kEoBIu,Narrow Head,50,138200,Alternative Rock
-59,indie,0Y6dVaC9DZtPNH4591M42W,TV Girl,83,9329382,Indie
-60,jazz rap,1FvjvACFvko2Z91IvDljrx,Mick Jenkins,57,654340,Jazz
-61,bedroom pop,78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,76,3849063,Indie
-62,indie,5INjqkS1o8h1imAzPqGZBb,Tame Impala,80,8499372,Indie
-63,experimental hip hop,3A5tHz1SfngyOZM2gItYKu,Earl Sweatshirt,70,2323289,Rap
-64,idm,6kBDZFXuLrZgHnvmPu9NsG,Aphex Twin,66,1573771,Ambient
-65,breakcore,00hxNB9gMEeMFLLaW06F4J,Levi Ryan,44,9662,Electronic
-66,rap,1gPhS1zisyXr5dHTYZyiMe,Kevin Gates,72,6364993,Rap
-67,melodic rap,4O15NlyKLIASxsJ0PrXPfz,Lil Uzi Vert,85,18332192,Rap
-68,hard house,4udW3rcRXEmwm706eR5h8u,t e s t p r e s s,42,12418,Dance
-69,stutter house,3zW0xazqnHoq9QV9zBROVC,it's murph,61,60752,House
-70,stutter house,2CpLIMBoE2ZzyY3ZBCRZ7j,BUNT.,69,206673,House
-71,electronic,3ETvRzzQK7ppB28GcAE8rN,Mietze Conte,49,25595,Electronic
-72,rap,50co4Is1HCEo8bhOyUWKpn,Young Thug,85,11121433,Rap
-73,indie,0nnF48t4C8uqGS5HPnCN3F,49th & Main,59,46192,Indie
-74,southern hip hop,5lHRUCqkQZCIWeX7xG4sYT,Rich Homie Quan,67,2922011,Hip Hop
-75,nu jazz,6tcltBYoeWDm2P6NoawNIT,OMA,43,86787,Jazz
-76,house,43BxCL6t4c73BQnIJtry5v,James Hype,69,416192,House
-77,lo-fi house,1pR1W2iWfLwtMK776UeIcF,Cult Member,56,27647,Electronic
-78,indie,48vDIufGC8ujPuBiTxY8dm,Palace,60,320376,Indie
-79,classic rock,08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,82,12599600,Rock
-80,melodic house,5EmEZjq8eHEC6qFnT63Lza,Tinlicker,65,238390,House
-81,cloud rap,6NGCqVZDdqSsN1CqCeiTmS,Ripsquad Archive,30,10109,Rap
-82,jazz rap,6ftHlqrtNdAq0bWL7zkaTG,re:plus,38,45163,Jazz
-83,indie,6bJCrLZcvsBMzve04BmgwS,Golden Vessel,45,60286,Indie
-84,soundtrack,1DdhScDGl9AceKnbvgkFgz,Motoi Sakuraba,51,48045,Video Game
-85,tech house,0w1sbtZVQoK6GzV4A4OkCv,Mau P,63,137842,House
-86,house,6nS5roXSAGhTGr34W6n7Et,Disclosure,75,2280457,House
-87,post-hardcore,0q6u5HyVK4zwGuzEtqjHqa,Fiddlehead,43,60484,Alternative Rock
-88,reggaeton,0GM7qgcRCORpGnfcN2tCiB,Tainy,78,2666845,Latin
-89,rap,51Pn4gGnZuyOMDfIT1Zy3N,The Underachievers,47,380830,Rap
-90,cloud rap,6hG0VsXXlD10l60TqiIHIX,Ecco2k,60,298043,Electronic
-91,west coast hip hop,0EeQBlQJFiAfJeVN2vT9s0,Nipsey Hussle,66,3511857,Hip Hop
-92,memphis rap,0RESbWvOMyua0yuyVrztJ5,Key Glock,75,2180404,Rap
-93,drill,15iVAtD3s3FsQR4w1v6M0P,Chief Keef,77,5417648,Rap
-94,bedroom pop,2sSGPbdZJkaSE2AbcGOACx,The Marías,81,1976993,Indie
-95,rage rap,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,81,2543379,Rap
-96,rap,4LLpKhyESsyAXpc4laK94U,Mac Miller,83,11274688,Rap
-97,underground hip hop,4PaHlM2H2hC3VQV4BfLo4B,Brennan Jones,48,29032,Rap
-98,rap,4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator",92,19324582,Rap
-99,stutter house,5Kmr0b3ip8g9P2i0dLTC3Z,Disco Lines,60,155228,House
-100,indie,6TLwD7HPWuiOzvXEa3oCNe,Oliver Tree,69,2511796,Indie
-101,indie,0Y4inQK6OespitzD6ijMwb,Freddie Gibbs,67,1354489,Indie
-102,shoegaze,1IHjrY7ygKbmLVoUV1VcXc,Superheaven,63,329167,Alternative Rock
-103,idm,7Eu1txygG6nJttLHbZdQOh,Four Tet,63,763344,Ambient
-104,hip hop,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,95,36236697,Hip Hop
-105,acid techno,3oPI0nOC7MHooFy5qDsFrv,AIROD,40,42602,Techno
-106,rap,5IcR3N7QB1j6KBL8eImZ8m,ScHoolboy Q,76,4916465,Rap
-107,future house,5nki7yRhxgM509M5ADlN1p,Oliver Heldens,67,1053505,House
-108,jazz rap,6XrpG3fOQBXzVBYjQUrsGv,Nomak,30,15591,Jazz
-109,trap,6oMuImdp5ZcFhWP0ESe6mG,Migos,76,14228342,Rap
-110,hard house,02fHczhlgEBCCjzjsNvJAh,LB aka LABAT,32,13847,Dance
-111,rap,2ODbg2404zUzTi02qIPEjB,Tay-K,64,3664439,Rap
-112,merengue,40FzPNKgu0k9VMvvidiKCl,Los Hermanos Rosario,57,348866,Latin
-113,east coast hip hop,5cMgGlA1xGyeAB2ctYlRdZ,Gang Starr,64,1006433,Hip Hop
-114,tech house,7kNqXtgeIwFtelmRjWv205,John Summit,73,430373,House
-115,gangster rap,5spEJXLwD1sKUdC2bnOHPg,Bone Thugs-N-Harmony,66,3170000,Hip Hop
-116,rap,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,93,36227346,Rap
-117,southern hip hop,13y7CgLHjMVRMDqxdx0Xdo,Gucci Mane,77,5769773,Rap
-118,rap,68kEuyFKyqrdQQLLsmiatm,Vince Staples,68,1973107,Rap
-119,rap,6l3HvQ5sa6mXTsMTB19rO5,J. Cole,86,25495313,Rap
-120,psychedelic rock,776Uo845nYHJpNaStv1Ds4,Jimi Hendrix,69,7017029,Rock
-121,breakcore,79W7uIUU51RwgRFeYeRrP6,Cynthoni,48,54723,Electronic
-122,east coast hip hop,7BMccF0hQFBpP6417k1OtQ,Action Bronson,63,849512,Hip Hop
-123,rap,7iZtZyCzp3LItcw1wtPI3D,Rae Sremmurd,71,7597836,Rap
-124,rap,1dqGS5sT6PE2wEvP1gROZC,Flatbush Zombies,55,1227434,Rap
-125,rap,1Nd1g8fezKoJ6DGauWbZIm,Beast Coast,42,120737,Rap
-126,experimental hip hop,0xWlWvXGQve3reUhtjlPrS,Edward Skeletrix,51,44119,Rap
-127,shoegaze,79bG0WSxgj7fnJr9cDqPjL,Sleepwalk,45,28437,Alternative Rock
-128,trance,0SfsnGyD8FpIN4U4WCkBZ5,Armin van Buuren,75,4471944,Dance
-129,memphis rap,26s8LSolLfCIY88ysQbIuT,Three 6 Mafia,63,1384301,Hip Hop
-130,indie,4o6dCIkmONTJL0ByDDUNYd,Mind’s Eye,47,56627,Indie
-131,shoegaze,4zaUiALGzCjfr0s9WKXCXL,Blue Smiley,50,65415,Alternative Rock
-132,witch house,7K3zpFXBvPcvzhj7zlGJdO,Crystal Castles,72,2905091,Electronic
-133,rap,7e10JUMF7MJmmwYpnTSMI5,Dave East,57,701897,Rap
-134,shoegaze,0RzwdSzh3shHCYdE36Fizn,all under heaven,39,32540,Alternative Rock
-135,rap,4xRYI6VqpkE3UwrDrAZL8L,Logic,73,6109825,Rap
-136,shoegaze,4aCzIdK4ystmbXSZVyVrSG,flyingfish,55,159244,Alternative Rock
-137,shoegaze,7tO6Y3qnEQUM3kaVNlpXbu,Zeruel,55,78837,Alternative Rock
-138,classic rock,00tVTdpEhQQw1bqdu8RCx2,Blue Öyster Cult,63,1625152,Rock
-139,boom bap,0ABk515kENDyATUdpCKVfW,Westside Gunn,68,712420,Hip Hop
-140,soul,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,95,66174614,Soul
-141,indie,4tuJ0bMpJh08umKkEXKUI5,Gracie Abrams,90,4064462,Indie
-142,ambient,4uFZsG1vXrPcvnZ4iSQyrx,C418,73,1099154,Ambient
-143,indietronica,5Pb27ujIyYb33zBqVysBkj,RÜFÜS DU SOL,74,1934667,Electronic
-144,tech house,5g93IJMEpfC68NUaeVjr4h,Tita Lau,47,51314,House
-145,house,7e3FtKBIPLrIVm8g1FJMVg,Sango,56,208447,House
-146,kuduro,0tQQDxDD4vZvqwsjfOd7Ri,Lokowat,30,3492,Dance
-147,phonk,5XwtmTsYaeISuSubhSceo2,DJZRX,65,61371,Dance
-148,cloud rap,5cRYwbM6xf3UetokVQfjqi,snowy sky,16,1526,Rap
-149,slowcore,04GCjO1r1hPelibCUq9S8H,Fog Lake,59,141901,Alternative Rock
-150,cloud rap,0G2xkjzM76THRB0rEgx7N8,Nokia Angel,39,13196,Electronic
-151,shoegaze,0kNnAYnBKQRs6boBVMRwaD,Trxy!,54,39671,Alternative Rock
-152,east coast hip hop,1C6G15UmVQMDGpYbdsf1Oi,Lord Finesse,50,130264,Hip Hop
-153,underground hip hop,2jl4qd6UbzeCmImT4nWbtA,Nettspend,69,216124,Rap
-154,trance,3Bd1phrOZJuCev9U0bzdtA,Ben Nicky,53,122619,Dance
-155,lo-fi house,3SLV96o2Xa4oOZpSl5FwgD,Shaolin Cowboy,43,15167,House
-156,rap,3TVXtAsR1Inumwj472S9r4,Drake,95,95285166,Rap
-157,cloud rap,3eA5bk40aoRHxAyywgOaOa,Ruben Slikk,32,15853,Rap
-158,boom bap,4Bfff7gPcz7DcDiSdjX6LY,Miilkbone,42,16837,Hip Hop
-159,shoegaze,54S56FDCzOYP1EY3hb7wbW,sodistilled,50,17386,Alternative Rock
-160,dream pop,5r5uCVk3IIzm2jdfGDpl8C,Beach Vacation,55,26016,Indie
-161,retro soul,7H3z77VbkJcCcFilmKqKNM,Pale Jay,66,116258,Soul
-162,shoegaze,7mhFqGccO5U4pn90mix9S1,trauma ray,47,48789,Alternative Rock
-163,electronic,7r8EHfxHZHU16sUV3BEH1t,Macabre Plaza,62,228834,Electronic
-164,rap,0huGjMyP507tBCARyzSkrv,Cordae,69,2072650,Rap
-165,kuduro,0mCON8eh0dZzilPOoisgh8,99GINGER,31,1964,Dance
-166,electronic,1NLyehNkC7wzb5FLW4uYjc,LoVibe.,20,3128,Electronic
-167,cloud rap,1NZYxkl40ebW2QiwkMctIY,Drain Gang Archive,46,77513,Rap
-168,cloud rap,1O8X4zxUh4AdAPFttOTlLr,Thouxanbanfauni,55,269549,Rap
-169,eurodance,1OAjDaKgg00KCUYqDe68un,Gigi D'Agostino,71,992502,Dance
-170,french house,1gR0gsQYfi6joyO1dlp76N,Justice,66,1315272,Electronic
-171,dubstep,25oLRSUjJk4YHNUsQXk7Ut,GRiZ,57,474034,Dance
-172,shoegaze,2Q0rAyTIfdTUwDt8jpEpv0,Novulent,62,192601,Alternative Rock
-173,trance,2YVF0Ou5zIc4mpgtLIlGN0,Robert Miles,63,239831,Dance
-174,rap,31IZdHrCZ5pRhLz4zBxN3o,Riff Raff,51,188968,Rap
-175,lo-fi house,3Qav2btak3NJY2w6NbVC1Y,Sideluv,48,5149,House
-176,indie,3Y3bK9UlgDtqEfIwFUCLH0,Racoma,51,32814,Indie
-177,shoegaze,4G9wSdX0klmoHfjm9i6DLd,Loathe,61,398698,Alternative Rock
-178,soul,4frXpPxQQZwbCu3eTGnZEw,Thundercat,71,1426893,Soul
-179,psychedelic pop,4kSGbjWGxTchKpIxXPJv0B,Crumb,63,613724,Indie
-180,indie,57vWImR43h4CaDao012Ofp,Steve Lacy,82,5565383,Indie
-181,rap,5K4W6rqBFWDnAN6FQUkS6x,Kanye West,92,28836861,Rap
-182,dark trap,5v2WhpA59TJSdPh7LCx1lN,BONES,74,1786260,Rap
-183,edm,7CajNmpbOovFoOoasH2HaY,Calvin Harris,85,23026773,Dance
-184,jazz fusion,2Ex4vjQ6mSh5woTlDWto6d,Masayoshi Takanaka,57,430090,Jazz
-185,rap,46SHBwWsqBkxI7EeeBEQG7,Kodak Black,81,11468737,Rap
-186,uk garage,01PnN11ovfen6xUOHfNpn3,Overmono,55,161040,Electronic
-187,edm,3dz0NnIZhtKKeXZxLOxCam,Porter Robinson,63,1185006,Dance
-188,reggaeton,4q3ewBCX7sLwd24euuV69X,Bad Bunny,100,89282899,Latin
-189,shoegaze,5JmWLxL2ESIufByQzPQ9zh,lor2mg,38,13511,Alternative Rock
-190,nu metal,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,90,28423816,Alternative Rock
-191,piano house,0Cs47vvRsPgEfliBU9KDiB,D.O.D,70,98679,House
-192,classic rock,0WwSkZ7LtFUFjGjMZBMt6T,Dire Straits,78,8112860,Rock
-193,indie,0m5FakHKCQdA7UN0PIzMcL,Current Joys,73,1528492,Indie
-194,tech house,1VJ0briNOlXRtJUAzoUJdt,FISHER,77,1055690,House
-195,melodic rap,2hlmm7s2ICUX0LVIhVFlZQ,Gunna,87,8781992,Rap
-196,electroclash,3LE39lgBs68N41XjxH5cLD,damon r.,40,14957,Electronic
-197,indie,3Sz7ZnJQBIHsXLUSo0OQtM,Mac DeMarco,81,6962600,Indie
-198,cloud rap,3xMSStWH6Wz2KAJqkZwXLu,Yabujin,48,159492,Electronic
-199,rap,45TgXXqMDdF8BkjA83OM7z,Rod Wave,80,8441032,Rap
-200,electro house,4Ws2otunReOa6BbwxxpCt6,Benny Benassi,66,578792,House
-201,gangster rap,5me0Irg2ANcsgc93uaYrpb,The Notorious B.I.G.,77,11450478,Hip Hop
-202,rap,6xS5PpBWaVYraexEkEjjXv,Maxo Kream,59,472461,Rap
-203,jazz rap,04aAAEbkuy8tC8xmaE0CcQ,Nitsua,43,16030,Jazz
-204,rap,1ybINI1qPiFbwDXamRtwxD,Smino,68,1002295,Rap
-205,soundtrack,3nIELxtRA56U1AXqJFzyDw,Yuka Kitamura,54,41629,Video Game
+0,cloud rap,3hGJ4nHdF99Vs0gQdXz5Nw,smokedope2016,55,71264,Rap
+1,electroclash,6TsAG8Ve1icEC8ydeHm3C8,Snow Strippers,66,196706,Electronic
+2,lo-fi house,6G01WYFYF91rjG5LtwMhY4,1tbsp,46,32378,House
+3,midwest emo,2CnhqfjUG0qzsru0SMuhrk,Title Fight,63,514218,Alternative Rock
+4,darkwave,62s5q1tm3UAcRnbGY9CCI9,Provoker,47,63429,Alternative Rock
+5,eurotrance,0HHa7ZJZxUQlg5l2mB0N0f,Marlon Hoffstadt,62,137862,Dance
+6,hyperpop,72NhFAGG5Pt91VbheJeEPG,2hollis,61,185944,Electronic
+7,eurotrance,1vK8NnrPlBlF34LaiFX1SK,Funk Tribu,55,88176,Dance
+8,techno,5Ho1vKl1Uz8bJlk4vbmvmf,Amelie Lens,53,654850,Techno
+9,jazz rap,3Rq3YOF9YG9YfCWD4D56RZ,Nujabes,64,1297073,Jazz
+10,stutter house,4oLeXFyACqeem2VImYeBFe,Fred again..,76,1850561,House
+11,cloud rap,3uo0ix4Y67XHVWBhXXIY1S,Xavier Wulf,69,1062004,Rap
+12,eurotrance,5tcwaJBUyEdxQxvieuQxU7,DJ HEARTSTRING,53,77677,Dance
+13,indie,0U7iI0Dk4Ojvi17nZboNO4,Vacations,71,1276922,Indie
+14,jazz rap,6AE5XsUcbWE2XrQccVVJyd,Uyama Hiroto,46,106289,Jazz
+15,eurotrance,5w2AnakbHiabcr3RZPLqr5,Butschi,34,7968,Dance
+16,lo-fi house,0nx9ai3o3Ba6bE3WHkEoQg,DJ Planet Express,40,13282,House
+17,reggae,2QsynagSdAqZj3U9HgDzjD,Bob Marley & The Wailers,79,12962357,Reggae
+18,melodic rap,757aE44tKEUQEqRuT6GnEB,Roddy Ricch,76,11172925,Rap
+19,dubstep,5he5w2lnU9x7JFhnwcekXX,Skrillex,74,7670715,Electronic
+20,hard house,2A4uiWrfuBpVFugyvxAt4c,Pegassi,44,21422,Dance
+21,indie,3XxNRirzbjfLdDli06zMaB,Eyedress,73,2415257,Indie
+22,cloud rap,5vSQUyT33qxr1xAX2Tkf3A,Clams Casino,70,340877,Electronic
+23,pop punk,6FBDaR13swtiWwGhX1WQsP,blink-182,76,8790450,Punk
+24,breakcore,39kuwM2oBNmrM3kEYVmk2X,TOKYOPILL,47,115278,Electronic
+25,reggae rock,0EdvGhlC1FkGItLOWQzG4J,Sublime,70,3075540,Reggae
+26,lo-fi house,6KkltYAOOGsCaW7dO9jF98,Pretty Girl,40,27727,House
+27,rap,6aaMZ3fcfLv4tEbmY7bjRM,Isaiah Rashad,68,1529394,Rap
+28,rage rap,699OTQXzgjhIYAHMy9RyPD,Playboi Carti,84,12971314,Rap
+29,underground hip hop,4PaHlM2H2hC3VQV4BfLo4B,Brennan Jones,46,29861,Rap
+30,hard house,50udUOTR7dQUgyPwPuCLM6,MALUGI,50,25198,Dance
+31,soul,4596e2d3KmYzAeVenjCxfj,Free Nationals,60,334394,Soul
+32,cloud rap,6TxY5T8v9RjF7Ry4XQvWT5,Chris Travis,65,523740,Rap
+33,bedroom pop,3zmfs9cQwzJl575W1ZYXeT,Men I Trust,69,2080820,Indie
+34,indie,3OykSjAE6F2Mb51WplFoRk,WILLIS,54,156226,Indie
+35,electronic,6qgnBH6iDM91ipVXv28OMu,KAYTRANADA,70,1643100,Electronic
+36,cloud rap,2xvtxDNInKDV4AvGmjw6d1,Bladee,67,557189,Electronic
+37,lo-fi house,7yF6JnFPDzgml2Ytkyl5D7,Mall Grab,54,251517,House
+38,indie,1jsT4oqnLcCax2grWbuhL6,The Simps,49,90129,Indie
+39,hip hop,2P5sC9cVZDToPxyomzF1UH,Joey Bada$$,71,3675030,Rap
+40,eurotrance,540RtWfpQokIlaRgMDjU9v,TDJ,37,17174,Dance
+41,shoegaze,6ROfszneZDogjnbgqkxA7E,Midrift,58,105799,Alternative Rock
+42,shoegaze,3TJZG17pjOKXwx1ELKJPfm,Wisp,62,459279,Alternative Rock
+43,rap,13ubrt8QOOCPljQ2FL1Kca,A$AP Rocky,83,15821069,Rap
+44,punk rap,6fxyWrfmjcbj5d12gXeiNV,Denzel Curry,72,2730063,Punk
+45,melodic house,27gtK7m9vYwCyJ04zz0kIb,Lane 8,58,430962,House
+46,french house,4tZwfgrHOc3mvqYlEYSvVi,Daft Punk,80,10436169,Electronic
+47,eurotrance,5ye3YheRaIaodo3nid7Wxz,Upper90,40,7930,Dance
+48,cloud rap,5tQMB0cuNXdCtzovGt55uD,LUCKI,77,1450295,Rap
+49,jazz rap,1FvjvACFvko2Z91IvDljrx,Mick Jenkins,55,656105,Jazz
+50,cloud rap,1NZYxkl40ebW2QiwkMctIY,Drain Gang Archive,44,78217,Rap
+51,riddim,3NJ94iuAmmMjbszODYT6pO,Subtronics,61,360425,Electronic
+52,nu metal,6Ghvu1VvMGScGpOUJBAHNH,Deftones,79,6491177,Alternative Rock
+53,psytrance,2iKMTi2SXZWsGbl8LI8OSV,Jay Selway,0,118,Dance
+54,breakcore,30F64wQIHvLiFTGaNZ73nU,Sewerslvt,56,374259,Electronic
+55,cloud rap,56zdYcwtmdYq3WlBYQeHoA,DJmegan23,45,26413,Electronic
+56,eurotrance,2b1Yc522In2BV3Q1fj2JzY,DATSKO,47,9031,House
+57,cloud rap,4bbjivSh1oG4NOc7uYHfw5,Lil B,55,336070,Rap
+58,memphis rap,08Ld63UgKrJ0nZnCkzHtzc,Project Pat,65,894646,Hip Hop
+59,shoegaze,4g6ODwOQYRZLsP89kEoBIu,Narrow Head,49,139372,Alternative Rock
+60,breakcore,00hxNB9gMEeMFLLaW06F4J,Levi Ryan,43,10157,Electronic
+61,experimental hip hop,3A5tHz1SfngyOZM2gItYKu,Earl Sweatshirt,68,2327390,Rap
+62,idm,6kBDZFXuLrZgHnvmPu9NsG,Aphex Twin,65,1584591,Ambient
+63,shoegaze,3ysp8GwsheDcBxP9q65lBg,Lush,45,266397,Alternative Rock
+64,melodic rap,4O15NlyKLIASxsJ0PrXPfz,Lil Uzi Vert,83,18389759,Rap
+65,eurotrance,4udW3rcRXEmwm706eR5h8u,t e s t p r e s s,41,13067,Dance
+66,bedroom pop,78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,75,3871953,Indie
+67,jazz fusion,7EhUXju6pssa8o3CvFJTew,Cortex,53,165924,Jazz
+68,stutter house,3zW0xazqnHoq9QV9zBROVC,it's murph,59,61438,House
+69,stutter house,2CpLIMBoE2ZzyY3ZBCRZ7j,BUNT.,68,210385,House
+70,house,3ETvRzzQK7ppB28GcAE8rN,Mietze Conte,47,26261,House
+71,rap,1gPhS1zisyXr5dHTYZyiMe,Kevin Gates,71,6381134,Rap
+72,rap,50co4Is1HCEo8bhOyUWKpn,Young Thug,83,11186536,Rap
+73,indie,1anyVhU62p31KFi8MEzkbf,Chance the Rapper,73,6027123,Indie
+74,house,0nnF48t4C8uqGS5HPnCN3F,49th & Main,57,47061,House
+75,southern hip hop,5lHRUCqkQZCIWeX7xG4sYT,Rich Homie Quan,65,2925175,Hip Hop
+76,nu jazz,6tcltBYoeWDm2P6NoawNIT,OMA,41,87537,Jazz
+77,house,43BxCL6t4c73BQnIJtry5v,James Hype,68,418653,House
+78,lo-fi house,1pR1W2iWfLwtMK776UeIcF,Cult Member,56,30206,Electronic
+79,rap,0Y4inQK6OespitzD6ijMwb,Freddie Gibbs,66,1358564,Rap
+80,nu metal,6XyY86QOPPrYVGvF9ch6wz,Linkin Park,88,28579836,Alternative Rock
+81,classic rock,08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,81,12662310,Rock
+82,melodic house,5EmEZjq8eHEC6qFnT63Lza,Tinlicker,63,239622,House
+83,cloud rap,6NGCqVZDdqSsN1CqCeiTmS,Ripsquad Archive,28,10215,Rap
+84,indie,5INjqkS1o8h1imAzPqGZBb,Tame Impala,79,8539568,Indie
+85,indie,0Y6dVaC9DZtPNH4591M42W,TV Girl,81,9490682,Indie
+86,indie,48vDIufGC8ujPuBiTxY8dm,Palace,60,322791,Indie
+87,indie,6bJCrLZcvsBMzve04BmgwS,Golden Vessel,44,60385,Indie
+88,soundtrack,1DdhScDGl9AceKnbvgkFgz,Motoi Sakuraba,50,48375,Video Game
+89,tech house,0w1sbtZVQoK6GzV4A4OkCv,Mau P,62,139787,House
+90,house,6nS5roXSAGhTGr34W6n7Et,Disclosure,74,2285551,House
+91,post-hardcore,0q6u5HyVK4zwGuzEtqjHqa,Fiddlehead,41,60775,Alternative Rock
+92,reggaeton,0GM7qgcRCORpGnfcN2tCiB,Tainy,77,2676078,Latin
+93,jazz rap,6ftHlqrtNdAq0bWL7zkaTG,re:plus,36,45281,Jazz
+94,cloud rap,6hG0VsXXlD10l60TqiIHIX,Ecco2k,59,300123,Electronic
+95,rap,1Nd1g8fezKoJ6DGauWbZIm,Beast Coast,40,120789,Rap
+96,memphis rap,0RESbWvOMyua0yuyVrztJ5,Key Glock,74,2189418,Rap
+97,drill,15iVAtD3s3FsQR4w1v6M0P,Chief Keef,75,5441326,Rap
+98,bedroom pop,2sSGPbdZJkaSE2AbcGOACx,The Marías,80,2057987,Indie
+99,rage rap,3gBZUcNeVumkeeJ19CY2sX,Ken Carson,79,2585095,Rap
+100,rap,4LLpKhyESsyAXpc4laK94U,Mac Miller,84,11395737,Rap
+101,indie,4V8LLVI7PbaPR0K2TGSxFF,"Tyler, The Creator",89,19641935,Indie
+102,rap,51Pn4gGnZuyOMDfIT1Zy3N,The Underachievers,45,380969,Rap
+103,stutter house,5Kmr0b3ip8g9P2i0dLTC3Z,Disco Lines,59,156969,House
+104,indie,6TLwD7HPWuiOzvXEa3oCNe,Oliver Tree,68,2515094,Indie
+105,shoegaze,1IHjrY7ygKbmLVoUV1VcXc,Superheaven,62,334772,Alternative Rock
+106,idm,7Eu1txygG6nJttLHbZdQOh,Four Tet,61,764988,Ambient
+107,west coast hip hop,0EeQBlQJFiAfJeVN2vT9s0,Nipsey Hussle,65,3516563,Hip Hop
+108,acid techno,3oPI0nOC7MHooFy5qDsFrv,AIROD,39,42986,Techno
+109,rap,5IcR3N7QB1j6KBL8eImZ8m,ScHoolboy Q,74,4928234,Rap
+110,future house,5nki7yRhxgM509M5ADlN1p,Oliver Heldens,66,1054612,House
+111,jazz rap,6XrpG3fOQBXzVBYjQUrsGv,Nomak,28,15658,Jazz
+112,trap,6oMuImdp5ZcFhWP0ESe6mG,Migos,74,14251731,Rap
+113,hard house,02fHczhlgEBCCjzjsNvJAh,LB aka LABAT,30,13926,Dance
+114,rap,2ODbg2404zUzTi02qIPEjB,Tay-K,62,3671808,Rap
+115,merengue,40FzPNKgu0k9VMvvidiKCl,Los Hermanos Rosario,55,349841,Latin
+116,house,7kNqXtgeIwFtelmRjWv205,John Summit,72,438309,House
+117,rap,0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,91,36534506,Rap
+118,southern hip hop,13y7CgLHjMVRMDqxdx0Xdo,Gucci Mane,75,5785171,Rap
+119,hip hop,2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,93,36587707,Hip Hop
+120,rap,68kEuyFKyqrdQQLLsmiatm,Vince Staples,67,1977067,Rap
+121,rap,6l3HvQ5sa6mXTsMTB19rO5,J. Cole,84,25583695,Rap
+122,psychedelic rock,776Uo845nYHJpNaStv1Ds4,Jimi Hendrix,67,7035569,Rock
+123,breakcore,79W7uIUU51RwgRFeYeRrP6,Cynthoni,48,56989,Electronic
+124,edm,7CajNmpbOovFoOoasH2HaY,Calvin Harris,84,23043942,Dance
+125,rap,7iZtZyCzp3LItcw1wtPI3D,Rae Sremmurd,70,7613490,Rap
+126,gangster rap,5spEJXLwD1sKUdC2bnOHPg,Bone Thugs-N-Harmony,64,3176930,Hip Hop
+127,experimental hip hop,0xWlWvXGQve3reUhtjlPrS,Edward Skeletrix,49,45785,Rap
+128,shoegaze,79bG0WSxgj7fnJr9cDqPjL,Sleepwalk,43,29085,Alternative Rock
+129,trance,0SfsnGyD8FpIN4U4WCkBZ5,Armin van Buuren,74,4481048,Dance
+130,memphis rap,26s8LSolLfCIY88ysQbIuT,Three 6 Mafia,62,1388373,Hip Hop
+131,indie,4o6dCIkmONTJL0ByDDUNYd,Mind’s Eye,46,56974,Indie
+132,shoegaze,4zaUiALGzCjfr0s9WKXCXL,Blue Smiley,47,65918,Alternative Rock
+133,dark trap,5v2WhpA59TJSdPh7LCx1lN,BONES,72,1794402,Rap
+134,house,6kbR2eL4hecj3rFwGOsYsI,BL3SS,68,30899,House
+135,witch house,7K3zpFXBvPcvzhj7zlGJdO,Crystal Castles,70,2928889,Electronic
+136,rap,7e10JUMF7MJmmwYpnTSMI5,Dave East,55,703107,Rap
+137,shoegaze,0RzwdSzh3shHCYdE36Fizn,all under heaven,38,32906,Alternative Rock
+138,shoegaze,4aCzIdK4ystmbXSZVyVrSG,flyingfish,54,161123,Alternative Rock
+139,shoegaze,7tO6Y3qnEQUM3kaVNlpXbu,Zeruel,52,80169,Alternative Rock
+140,classic rock,00tVTdpEhQQw1bqdu8RCx2,Blue Öyster Cult,61,1629630,Rock
+141,boom bap,0ABk515kENDyATUdpCKVfW,Westside Gunn,66,717457,Hip Hop
+142,soul,0du5cEVh5yTK9QJze8zA0C,Bruno Mars,94,66878582,Soul
+143,indie,4tuJ0bMpJh08umKkEXKUI5,Gracie Abrams,88,4244445,Indie
+144,ambient,4uFZsG1vXrPcvnZ4iSQyrx,C418,71,1108188,Ambient
+145,rap,4xRYI6VqpkE3UwrDrAZL8L,Logic,72,6113951,Rap
+146,indietronica,5Pb27ujIyYb33zBqVysBkj,RÜFÜS DU SOL,73,1950530,Electronic
+147,tech house,5g93IJMEpfC68NUaeVjr4h,Tita Lau,45,51775,House
+148,house,7e3FtKBIPLrIVm8g1FJMVg,Sango,55,208663,House
+149,kuduro,0tQQDxDD4vZvqwsjfOd7Ri,Lokowat,28,3562,Dance
+150,phonk,5XwtmTsYaeISuSubhSceo2,DJZRX,63,63575,Dance
+151,cloud rap,5cRYwbM6xf3UetokVQfjqi,snowy sky,15,1529,Rap
+152,slowcore,04GCjO1r1hPelibCUq9S8H,Fog Lake,56,143093,Alternative Rock
+153,cloud rap,0G2xkjzM76THRB0rEgx7N8,Nokia Angel,37,13645,Electronic
+154,shoegaze,0kNnAYnBKQRs6boBVMRwaD,Trxy!,52,41530,Alternative Rock
+155,east coast hip hop,1C6G15UmVQMDGpYbdsf1Oi,Lord Finesse,48,130751,Hip Hop
+156,underground hip hop,2jl4qd6UbzeCmImT4nWbtA,Nettspend,66,222202,Rap
+157,trance,3Bd1phrOZJuCev9U0bzdtA,Ben Nicky,51,123117,Dance
+158,lo-fi house,3SLV96o2Xa4oOZpSl5FwgD,Shaolin Cowboy,42,15474,House
+159,rap,3TVXtAsR1Inumwj472S9r4,Drake,94,95630972,Rap
+160,cloud rap,3eA5bk40aoRHxAyywgOaOa,Ruben Slikk,30,15986,Rap
+161,boom bap,4Bfff7gPcz7DcDiSdjX6LY,Miilkbone,40,17020,Hip Hop
+162,shoegaze,54S56FDCzOYP1EY3hb7wbW,sodistilled,49,18200,Alternative Rock
+163,retro soul,7H3z77VbkJcCcFilmKqKNM,Pale Jay,64,119610,Soul
+164,shoegaze,7mhFqGccO5U4pn90mix9S1,trauma ray,45,49686,Alternative Rock
+165,electronic,7r8EHfxHZHU16sUV3BEH1t,Macabre Plaza,59,230590,Electronic
+166,dream pop,5r5uCVk3IIzm2jdfGDpl8C,Beach Vacation,53,26671,Indie
+167,rap,0huGjMyP507tBCARyzSkrv,Cordae,67,2074634,Rap
+168,kuduro,0mCON8eh0dZzilPOoisgh8,99GINGER,29,2005,Dance
+169,electronic,1NLyehNkC7wzb5FLW4uYjc,LoVibe.,18,3138,Electronic
+170,cloud rap,1O8X4zxUh4AdAPFttOTlLr,Thouxanbanfauni,53,270297,Rap
+171,eurodance,1OAjDaKgg00KCUYqDe68un,Gigi D'Agostino,70,998440,Dance
+172,french house,1gR0gsQYfi6joyO1dlp76N,Justice,64,1319573,Electronic
+173,dubstep,25oLRSUjJk4YHNUsQXk7Ut,GRiZ,56,475031,Dance
+174,shoegaze,2Q0rAyTIfdTUwDt8jpEpv0,Novulent,60,196533,Alternative Rock
+175,trance,2YVF0Ou5zIc4mpgtLIlGN0,Robert Miles,62,241760,Dance
+176,rap,31IZdHrCZ5pRhLz4zBxN3o,Riff Raff,51,189905,Rap
+177,lo-fi house,3Qav2btak3NJY2w6NbVC1Y,Sideluv,47,5522,House
+178,shoegaze,4G9wSdX0klmoHfjm9i6DLd,Loathe,59,402812,Alternative Rock
+179,soul,4frXpPxQQZwbCu3eTGnZEw,Thundercat,69,1431656,Soul
+180,indie,57vWImR43h4CaDao012Ofp,Steve Lacy,80,5612263,Indie
+181,east coast hip hop,5cMgGlA1xGyeAB2ctYlRdZ,Gang Starr,62,1010648,Hip Hop
+182,rap,1dqGS5sT6PE2wEvP1gROZC,Flatbush Zombies,53,1227706,Rap
+183,jazz fusion,2Ex4vjQ6mSh5woTlDWto6d,Masayoshi Takanaka,56,436962,Jazz
+184,rap,46SHBwWsqBkxI7EeeBEQG7,Kodak Black,79,11526007,Rap
+185,uk garage,01PnN11ovfen6xUOHfNpn3,Overmono,54,161970,Electronic
+186,edm,3dz0NnIZhtKKeXZxLOxCam,Porter Robinson,61,1187515,Dance
+187,reggaeton,4q3ewBCX7sLwd24euuV69X,Bad Bunny,100,90058774,Latin
+188,shoegaze,5JmWLxL2ESIufByQzPQ9zh,lor2mg,35,13633,Alternative Rock
+189,piano house,0Cs47vvRsPgEfliBU9KDiB,D.O.D,69,99812,House
+190,classic rock,0WwSkZ7LtFUFjGjMZBMt6T,Dire Straits,76,8147517,Rock
+191,indie,0m5FakHKCQdA7UN0PIzMcL,Current Joys,71,1542258,Indie
+192,tech house,1VJ0briNOlXRtJUAzoUJdt,FISHER,76,1061760,House
+193,melodic rap,2hlmm7s2ICUX0LVIhVFlZQ,Gunna,85,8860833,Rap
+194,electroclash,3LE39lgBs68N41XjxH5cLD,damon r.,39,15467,Electronic
+195,indie,3Sz7ZnJQBIHsXLUSo0OQtM,Mac DeMarco,79,7018124,Indie
+196,cloud rap,3xMSStWH6Wz2KAJqkZwXLu,Yabujin,46,160470,Electronic
+197,electro house,4Ws2otunReOa6BbwxxpCt6,Benny Benassi,64,580566,House
+198,psychedelic pop,4kSGbjWGxTchKpIxXPJv0B,Crumb,61,616881,Indie
+199,gangster rap,5me0Irg2ANcsgc93uaYrpb,The Notorious B.I.G.,76,11524392,Hip Hop
+200,east coast hip hop,7BMccF0hQFBpP6417k1OtQ,Action Bronson,61,851326,Hip Hop
+201,jazz rap,04aAAEbkuy8tC8xmaE0CcQ,Nitsua,41,16177,Jazz
+202,rap,1ybINI1qPiFbwDXamRtwxD,Smino,66,1005430,Rap
+203,soundtrack,3nIELxtRA56U1AXqJFzyDw,Yuka Kitamura,52,42024,Video Game
