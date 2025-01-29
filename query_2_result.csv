@@ -1,17 +1,17 @@
-genre,genre_percentage
-Rap,25.2
-Electronic,14.06
-House,11.08
-Dance,10.8
-Alternative Rock,10.24
-Indie,9.67
-Jazz,5.51
-Hip Hop,3.43
-Techno,2.14
-Reggae,1.86
-Punk,1.86
-Soul,1.12
-Ambient,1.01
-Rock,0.84
-Latin,0.79
-Video Game,0.39
+genre,artist_count_per_genre,genre_percentage
+Rap,448,25.2
+Electronic,250,14.06
+House,197,11.08
+Dance,192,10.8
+Alternative Rock,182,10.24
+Indie,172,9.67
+Jazz,98,5.51
+Hip Hop,61,3.43
+Techno,38,2.14
+Reggae,33,1.86
+Punk,33,1.86
+Soul,20,1.12
+Ambient,18,1.01
+Rock,15,0.84
+Latin,14,0.79
+Video Game,7,0.39
