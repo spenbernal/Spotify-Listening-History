@@ -46,11 +46,11 @@ query[2] = '''
 #Query 4: Display most listened to artists from top 
 # tracks and display number of songs listened to by them 
 query[3] = '''
-            SELECT tt.artist, ta.genre, ta.subgenre, ta.followers,
+            SELECT tt.artist, ta.genre, ta.followers,
             COUNT(*) AS track_count, 
             RANK() OVER (ORDER BY COUNT(*) DESC, tt.artist) AS rank
             FROM top_tracks tt JOIN top_artists ta ON tt.artist = ta.artist
-            GROUP BY tt.artist, ta.genre, ta.subgenre, ta.followers
+            GROUP BY tt.artist, ta.genre, ta.followers
             ORDER BY track_count DESC, tt.artist
             LIMIT 10;
             '''
@@ -61,11 +61,11 @@ query[4] = '''
             WITH all_artists AS (
                 SELECT artist, track 
                 FROM top_tracks
-                UNION
+                UNION ALL
                 SELECT artist, track 
                 FROM featured_artists
             )
-            SELECT aa.artist, ta.followers, COUNT(DISTINCT(aa.track)) AS track_count, 
+            SELECT aa.artist, ta.followers, COUNT(*) AS track_count, 
             RANK() OVER (ORDER BY COUNT(*) DESC, aa.artist) AS rank
             FROM all_artists aa LEFT OUTER JOIN top_artists ta ON aa.artist = ta.artist
             GROUP BY aa.artist, ta.followers
